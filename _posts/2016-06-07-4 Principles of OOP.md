@@ -6,6 +6,7 @@ title: 4 Principles of OOP
 Object Oriented Programming (OOP) refers to using self-contained pieces of code to develop applications. We call these self-contained pieces of code objects, better known as Classes in most OOP programming languages and Functions in JavaScript. We use objects as building blocks for our applications. Building applications with objects allows us to adopt some valuable techniques, namely, Inheritance (objects can inherit features from other objects), Polymorphism (objects can share the same interface—how they are accessed and used—while their underlying implementation of the interface may differ), and Encapsulation (each object is responsible for specific tasks).
 
 The four OOP Principles
+
 1.Encapsulation
 Encapsulation is the mechanism that binds together code and the data it manipulates, and keeps both safe from outside interference and misuse. One way to think about encapsulation is as a protective wrapper that prevents the code and data from being arbitrarily accessed by other code defined outside the wrapper. Access to the code and data inside the wrapper is tightly controlled through a well-defined interface.
 
@@ -43,6 +44,8 @@ Polymorphism could be static and dynamic both. Overloading is static polymorphis
 
 Overloading in simple words means two methods having same method name but takes different input parameters. This called static because, which method to be invoked will be decided at the time of compilation
 Overriding means a derived class is implementing a method of its super class.
+
+References
 
 [what-are-four-principles-of-oop.html](http://crackingjavainterviews.blogspot.co.ke/2013/04/what-are-four-principles-of-oop.html)
 [major-principles-of-object-oriented-programming](http://codebetter.com/raymondlewallen/2005/07/19/4-major-principles-of-object-oriented-programming/)
