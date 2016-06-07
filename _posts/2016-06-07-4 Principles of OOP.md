@@ -39,10 +39,10 @@ Polymorphism could be static and dynamic both. Overloading is static polymorphis
 Overloading in simple words means two methods having same method name but takes different input parameters. This called static because, which method to be invoked will be decided at the time of compilation
 Overriding means a derived class is implementing a method of its super class.
 
-[I'm an inline-style link](http://crackingjavainterviews.blogspot.co.ke/2013/04/what-are-four-principles-of-oop.html)
-[I'm an inline-style link](http://codebetter.com/raymondlewallen/2005/07/19/4-major-principles-of-object-oriented-programming/)
-[I'm an inline-style link](https://sites.google.com/site/java4interviews/home/object-oriented-programming-principles)
-[I'm an inline-style link](http://beginnersbook.com/2013/03/oops-in-java-encapsulation-inheritance-polymorphism-abstraction/)
+[what-are-four-principles-of-oop.html](http://crackingjavainterviews.blogspot.co.ke/2013/04/what-are-four-principles-of-oop.html)
+[major-principles-of-object-oriented-programming](http://codebetter.com/raymondlewallen/2005/07/19/4-major-principles-of-object-oriented-programming/)
+[object-oriented-programming-principles](https://sites.google.com/site/java4interviews/home/object-oriented-programming-principles)
+[oops-in-java-encapsulation-inheritance-polymorphism-abstraction](http://beginnersbook.com/2013/03/oops-in-java-encapsulation-inheritance-polymorphism-abstraction/)
 
 
 
