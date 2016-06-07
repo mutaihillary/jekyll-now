@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research on Chrome Developer Tools
+title: Research-on-Chrome-Developer-Tools.md
 ---
 The Chrome Developer Tools (DevTools for short), are a set of web authoring and debugging tools built into Google Chrome. The DevTools provide web developers deep access into the internals of the browser and their web application. Use the DevTools to efficiently track down layout issues, set JavaScript breakpoints, and get insights for code optimization.
 
