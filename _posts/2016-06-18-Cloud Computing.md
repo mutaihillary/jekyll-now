@@ -23,6 +23,7 @@ utilisation and efficiency improvements for systems that are often only 10–20%
 ## Productivity may be increased when multiple users can work on the same data simultaneously
 Rather than waiting for it to be saved and emailed. Time may be saved as information does not need to be re-entered when fields are matched, nor do users need to install application software upgrades to their computer.
 Reliability improves with the use of multiple redundant sites, which makes well-designed cloud computing suitable for business continuity and disaster recovery.
+
 ## Scalability and elasticity 
 via dynamic ("on-demand") provisioning of resources on a fine-grained, self-service basis in near real-time, without users having to engineer This gives the ability to scale up when the usage need increases or down if resources are not being used.
 Security can improve due to centralization of data, increased security-focused resources, etc., but concerns can persist about loss of control over certain sensitive data, and the lack of security for stored kernels.
