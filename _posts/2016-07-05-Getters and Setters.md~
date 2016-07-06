@@ -27,6 +27,37 @@ public class MyClass {
 public class Cat {
     private var name:*;
 }
+After generating the getter and setter the following code will be produced:
+
+public class MyClass {
+    int aInteger;
+ public int getAInteger() {
+     return aInteger;
+ }
+ public void setAInteger (int myAIntegerParam) {
+     aInteger = myAIntegerParam;
+ }
+}
+    
+public 
+      class  Cat {
+    private  var _name:*;
+
+
+    public 
+      function 
+      get  name():* {
+        return  _name;
+    }
+
+    public 
+      function 
+      set  name(value:*):void  {
+        _name = value;
+    }
+}
+
+
 
 
 After generating the getter and setter the following code will be produced:
