@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Mutai Hillary is a web design and developer from Kenya Nairobi.I am currently learning HTMl, CSS, Java, JavaScript and Python. I also have vast knowledge in Systems and Software installations, implementation and support of SAP modules,Networking and troubleshooting LANS, IT helpdesk User support, Maintenance routines, WLAN design and installations, data analyst among other responsibilities. 
+Hello! I am Hillary Mutai. A web developer from Kenya Nairobi. During my freetime i worked as a freelance Digital Marketer and  Web Researcher.  
 
 My interest in Systems development, systems deployment, installations, maintenance, administrations and strong commitment to ensuring effective provision of real time working systems is my driving force on a daily basis.
 
