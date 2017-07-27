@@ -1,8 +1,3 @@
----
-layout: post
-title: Computer Hacker
----
-
 ## Computer Hacker
 In the computer security context, a hacker is someone who seeks and exploits weaknesses in a computer system or computer network. Hackers may be motivated by a multitude of reasons, such as profit, protest, challenge, enjoyment,or to evaluate those weaknesses to assist in removing them. 
 #Classifications

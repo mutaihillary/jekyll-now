@@ -1,7 +1,3 @@
----
-layout: post
-title: Hair Extensions.md
----
 ## HAIR EXTENSIONS
 ### WHAT ARE VIRGIN HAIR EXTENSIONS?
 Until late in 20th-century ladies have been known to keep their natural hair as they maintain their natural beauty but towards the start of 21st-century hair extensions began to take shape thanks to fashionable ladies who want to look natural even without their hair. So what are Virgin hair extensions? Virgin hair extensions are human hair which is chemically unprocessed collected from a single donor. Donors could be Brazilian, Indian, Malaysian or any other. Virgin Hair Extensions are Remy hair which had never been washed with the bleaches, perms, dyes or harsh washes.

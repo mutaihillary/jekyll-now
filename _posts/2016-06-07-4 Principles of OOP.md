@@ -1,9 +1,5 @@
----
-layout: post
-title: 4 Principles of OOP
----
-
-## Object Oriented Programming
+### 4 Principles of OOP
+### Object Oriented Programming
 Object Oriented Programming (OOP) refers to using self-contained pieces of code to develop applications. We call these self-contained pieces of code objects, better known as Classes in most OOP programming languages and Functions in JavaScript. We use objects as building blocks for our applications. Building applications with objects allows us to adopt some valuable techniques, namely, Inheritance (objects can inherit features from other objects), Polymorphism (objects can share the same interface—how they are accessed and used—while their underlying implementation of the interface may differ), and Encapsulation (each object is responsible for specific tasks).
 
 ### The four OOP Principles
