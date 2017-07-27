@@ -1,4 +1,3 @@
-### KERICHO; THE GREEN COUNTY. 
 Kericho County is one of devolved county unit in the former Rift valley province in the Republic of Kenya. It is a capital and administrative headquarter of the Kenya County.  It’s located 289Km on the Southern side of the country from capital city of Nairobi. The main economic activity of Kericho people is tea plantation where’s the county got its name as the green county. Tea in Kericho County is plant on small scale farming and large multinational big tea plantation. The population of Kericho is 567,092 as per 2013 national census. The inhabitant community are Kipsigis people who is the sub tribe of Kalenjins.
 
 ### WHERE TO VISIT?
