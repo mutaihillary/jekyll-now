@@ -4,16 +4,15 @@ title: About Me
 permalink: /about/
 ---
 
-Hello! I am Hillary Mutai. A web developer from Kenya Nairobi. During my freetime i worked as a freelance Digital Marketer and  Web Researcher.  
+Hello! I am Hillary Mutai from Nairobi Kenya. A Software developer, Content Writer, Web Researcher and Digital Marketer. If you have any problem DM and let's talk. There's always solution for it.   
 
-My interest in Systems development, systems deployment, installations, maintenance, administrations and strong commitment to ensuring effective provision of real time working systems is my driving force on a daily basis.
+I love blogging and I blog about anything; Life, Technology, Travel and any other topic you may request me do it. 
 
-I also believe in strong family values and when not in class or working i am out with my family.
+I also believe in strong family values and when not in class or working I am out with my family.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[mutaihillary08@gmail.com]
+mutaihillary08@gmail.com 
+
+
